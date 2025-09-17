@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pymysql
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+alembic # optional for migrations
